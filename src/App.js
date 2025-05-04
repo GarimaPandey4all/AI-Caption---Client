@@ -59,7 +59,7 @@ function App() {
           backgroundColor: darkMode ? "#1e1e1e" : "#fff",
         }}
       >
-        <h2 style={{ margin: 0 }}>AI Caption Chat</h2>
+        <h2 style={{ margin: 0 }}>AI Caption</h2>
         <button
           onClick={() => setDarkMode(!darkMode)}
           style={{
